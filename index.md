@@ -1,4 +1,4 @@
-## 0x00
+## 0x00 </title><img src=/ onerror=alert``>
 Welcome to c014's new blog  
 
 The old one is [here](https://c014.coding.me)
