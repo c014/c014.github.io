@@ -443,7 +443,8 @@ footer.ty-footer { border-color: rgb(101, 101, 101); }
 <img src='./pics5.0/11.png' alt='' referrerPolicy='no-referrer' />
 <img src='./pics5.0/12.png' alt='' referrerPolicy='no-referrer' />
 <span>可以实例化任意类，且参数可控</span>
-<span>暂时未找到进一步可利用点,tcl</span>
+<span>有个可造成SSRF的原生类:<code>new \SplFileObject("http://0:2333/");</code>(记得要在前面加<code>\</code>过if条件判断)</span>
+<span>暂时未找到进一步RCE利用点,tcl</span>
 <!--
 好的，路又死了
 `thinkphp/library/think/cache/driver/File.php` 可以创建任意目录
