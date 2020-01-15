@@ -15,3 +15,6 @@ I.   [ThinkPHP 5.1反序列化利用链学习](./pdfs/[TP系列I]ThinkPHP 5.1反
 II. [ThinkPHP 5.2反序列化利用链学习](./pdfs/[TP系列II]ThinkPHP 5.2反序列化利用链学习.html)  
 III.[ThinkPHP 6.0反序列化利用链学习](./pdfs/[TP系列III]ThinkPHP 6.0反序列化利用链学习.html)  
 IV. [ThinkPHP 5.0反序列化利用链学习](./pdfs/[TP系列IV]ThinkPHP 5.0反序列化利用链学习.html)  
+
+## 0x04
+[ThinkPHP 6.0.1 漏洞分析](./pdfs/ThinkPHP 6.0.1 漏洞分析.html)  
