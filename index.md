@@ -4,9 +4,11 @@ Welcome to c014's new blog
 <!-- The old one is [here](https://c014.coding.me) -->
 
 ## 0x01 CTF Writeups
-1.[CyBRICS CTF Quals 2019 Web Writeup](./pdfs/CyBRICS CTF Quals 2019 Web 题解.pdf)  
-2.[De1CTF 2019 Web Writeup](./pdfs/De1CTF 2019 Web Writeup.pdf)  
-3.[Codegate 2020 Web Writeup](./pdfs/Codegate 2020 Web Writeup.html)  
+[CyBRICS CTF Quals 2019 Web Writeup](./pdfs/CyBRICS CTF Quals 2019 Web 题解.pdf)  
+
+[De1CTF 2019 Web Writeup](./pdfs/De1CTF 2019 Web Writeup.pdf)  
+
+[Codegate 2020 Web Writeup](./pdfs/Codegate 2020 Web Writeup.html)  
 
 ## 0x02 ThinkPHP 
 I.   [ThinkPHP 5.1反序列化利用链学习](./pdfs/[TP系列I]ThinkPHP 5.1反序列化利用链学习.html)  
