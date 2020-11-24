@@ -19,13 +19,13 @@ Welcome to c014's new blog
 5. [ThinkPHP 6.0.1 漏洞分析](./pdfs/ThinkPHP 6.0.1 漏洞分析.html)  
 
 ## 0x03 java漫漫(慢慢)升级之路
-[Java 升级之路（一）Java 序列化与反序列化](./pdfs/java/Java 升级之路（一）Java 序列化与反序列化.html)  
-[Java 升级之路（二）类加载机制与反射](./pdfs/java/Java 升级之路（二）类加载机制与反射.html)  
-[Java 升级之路（三）Java 反序列化漏洞](./pdfs/java/Java 升级之路（三）Java 反序列化漏洞.html)  
-[Java 升级之路（四）RMI](./pdfs/java/Java 升级之路（四）RMI.html)  
-[Java 升级之路（五）JNDI](./pdfs/java/Java 升级之路（五）JNDI.html)  
-[Java 升级之路（六）LDAP](./pdfs/java/Java 升级之路（六）LDAP.html)  
-[Java 升级之路（七）JNDI注入](./pdfs/java/Java 升级之路（七）JNDI注入.html)  
+[Java 升级之路（一）Java 序列化与反序列化](./pdfs/java/Java 升级之路%EF%BC%88一%EF%BC%89Java 序列化与反序列化.html)  
+[Java 升级之路（二）类加载机制与反射](./pdfs/java/Java 升级之路%EF%BC%88二%EF%BC%89类加载机制与反射.html)  
+[Java 升级之路（三）Java 反序列化漏洞](./pdfs/java/Java 升级之路%EF%BC%88三%EF%BC%89Java 反序列化漏洞.html)  
+[Java 升级之路（四）RMI](./pdfs/java/Java 升级之路%EF%BC%88四%EF%BC%89RMI.html)  
+[Java 升级之路（五）JNDI](./pdfs/java/Java 升级之路%EF%BC%88五%EF%BC%89JNDI.html)  
+[Java 升级之路（六）LDAP](./pdfs/java/Java 升级之路%EF%BC%88六%EF%BC%89LDAP.html)  
+[Java 升级之路（七）JNDI注入](./pdfs/java/Java 升级之路%EF%BC%88七%EF%BC%89JNDI注入.html)  
 
 ### Commons Collections 反序列化漏洞
 [CommonsCollections1](./pdfs/java/CommonsCollections/CommonsCollections1.html)  
