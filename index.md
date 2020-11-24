@@ -18,4 +18,28 @@ Welcome to c014's new blog
   
 5. [ThinkPHP 6.0.1 漏洞分析](./pdfs/ThinkPHP 6.0.1 漏洞分析.html)  
 
+## 0x03 java漫漫(慢慢)升级之路
+[Java 升级之路（一）Java 序列化与反序列化](./pdfs/java/Java 升级之路（一）Java 序列化与反序列化.html)  
+[Java 升级之路（二）类加载机制与反射](./pdfs/java/Java 升级之路（二）类加载机制与反射.html)  
+[Java 升级之路（三）Java 反序列化漏洞](./pdfs/java/Java 升级之路（三）Java 反序列化漏洞.html)  
+[Java 升级之路（四）RMI](./pdfs/java/Java 升级之路（四）RMI.html)  
+[Java 升级之路（五）JNDI](./pdfs/java/Java 升级之路（五）JNDI.html)  
+[Java 升级之路（六）LDAP](./pdfs/java/Java 升级之路（六）LDAP.html)  
+[Java 升级之路（七）JNDI注入](./pdfs/java/Java 升级之路（七）JNDI注入.html)  
+
+### Commons Collections 反序列化漏洞
+[CommonsCollections1](./pdfs/java/CommonsCollections/CommonsCollections1.html)  
+[CommonsCollections2](./pdfs/java/CommonsCollections/CommonsCollections2.html)  
+[CommonsCollections3](./pdfs/java/CommonsCollections/CommonsCollections3.html)  
+[CommonsCollections4](./pdfs/java/CommonsCollections/CommonsCollections4.html)  
+[CommonsCollections5](./pdfs/java/CommonsCollections/CommonsCollections5.html)  
+[CommonsCollections6](./pdfs/java/CommonsCollections/CommonsCollections6.html)  
+[CommonsCollections7](./pdfs/java/CommonsCollections/CommonsCollections7.html)  
+
+### Fastjson 反序列化漏洞
+[Fastjson反序列化漏洞](./pdfs/java/Fastjson/Fastjson反序列化漏洞.html)  
+
+### ROME 反序列化漏洞
+[ROME反序列化分析](./pdfs/java/ROME/ROME反序列化分析.html)  
+
 ## More...
