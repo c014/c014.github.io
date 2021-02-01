@@ -37,6 +37,6 @@ Welcome to c014's blog
 [Fastjson 反序列化漏洞 历史线](./blog/java/Fastjson/Fastjson 反序列化漏洞 历史线.html)  
 
 ### ROME 反序列化漏洞
-[ROME反序列化分析](./blog/java/ROME/ROME反序列化分析.html)  
+[ROME反序列化漏洞分析](./blog/java/ROME/ROME反序列化漏洞分析.html)  
 
 ## More...
